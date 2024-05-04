@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 여행당일기 # the main title
+title: イチゴアメ # the main title
 
 tagline: 잡다한 덕질 블로그 # it will display as the sub-title
 
@@ -96,11 +96,11 @@ theme_mode: light # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://peachtart2.s3.ap-northeast-1.amazonaws.com/tart/thumbnail-ea971121-94f2-48f7-95c3-16b08f724c45.webp"
+avatar: "https://peachtart2.s3.ap-northeast-1.amazonaws.com/tart/12236827-66fe-44a5-8a17-292e26ae5cfb.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: "https://peachtart2.s3.ap-northeast-1.amazonaws.com/tart/12236827-66fe-44a5-8a17-292e26ae5cfb.png" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
