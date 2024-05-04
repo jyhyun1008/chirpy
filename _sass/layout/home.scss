@@ -18,12 +18,12 @@
   font-style: normal;
 }
 
-body, #search-results a {
+body {
   font-family: 'Noto Sans KR';
   font-weight: 200;
 }
 
-header .post-desc, h5, h4, h3, h2, h1 {
+header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
   font-family: 'Noto Sans KR';
   font-weight: 700;
 }
