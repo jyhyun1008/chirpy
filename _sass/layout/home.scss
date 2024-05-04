@@ -30,7 +30,13 @@ header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
 }
 
 .site-title {
-  font-weight:100;
+  font-weight:100 !important;
+}
+
+#sidebar {
+  background: url(https://peachtart2.s3.ap-northeast-1.amazonaws.com/tart/fcf5acf9-e9e8-4602-856a-2cfe80bb67fc.png);
+  background-size: cover;
+  background-position: center;
 }
 
 #post-list {
