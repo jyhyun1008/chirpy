@@ -2,6 +2,8 @@
   Style for Homepage
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
 @font-face {
   font-family: 'default';
   src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2404@1.0/Freesentation-2ExtraLight.woff2') format('woff2');
@@ -16,8 +18,14 @@
   font-style: normal;
 }
 
-body, header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
-  font-family: 'default';
+body, #search-results a {
+  font-family: 'Noto Sans KR';
+  font-weight: 200;
+}
+
+header .post-desc, h5, h4, h3, h2, h1 {
+  font-family: 'Noto Sans KR';
+  font-weight: 700;
 }
 
 #post-list {
