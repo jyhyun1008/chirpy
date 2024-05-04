@@ -20,13 +20,16 @@ order: 1
 > 이 사람은 단편 소설을 쓸 때도 **VScode**를 사용합니다.
 {: .prompt-warning }
 
-> 이 사람은 단순 배포용 PDF를 만들 때도 **Latex**을 사용합니다.
+> 이 사람은 발표용 PPT 자료를 만들 때도 **Markdown**을 사용합니다.
+{: .prompt-warning }
+
+> 이 사람은 단순 배포용 PDF를 만들 때도 **LateX**을 사용합니다.
 {: .prompt-warning }
 
 * **프로그래밍 언어**: python, javascript, ~~typescript~~
 * **딥러닝**: Tensorflow
 * **웹**: HTML, CSS, ~~Node.js~~, ~~Vue~~
-* **운영체제**: Mac, ~~~리눅스 서버 관리 경험 있음~~
+* **운영체제**: Mac, ~~리눅스 서버 관리 경험 있음~~
 * **자연어**:
   * 한국어 (모국어)
   * 영어 (전공관련 회화 가능)
@@ -40,4 +43,4 @@ order: 1
   * 3D: ~~Blender~~, Onshape
   * DAW: Logic Pro X
 * **문서 작성**
-  * Markdown, Latex
+  * Markdown, LateX
