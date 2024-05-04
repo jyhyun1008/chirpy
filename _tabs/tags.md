@@ -1,5 +1,5 @@
 ---
 layout: tags
-icon: fas fa-candy-cane
+icon: fas fa-ice-cream
 order: 3
 ---

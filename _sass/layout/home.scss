@@ -29,6 +29,10 @@ header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
   font-weight: 700;
 }
 
+.site-title {
+  font-weight: 100 !important;
+}
+
 #post-list {
   margin-top: 2rem;
 
@@ -56,6 +60,10 @@ header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
       img {
         @extend %img-radius;
       }
+    }
+
+    .card-header {
+      background-color: var(--sidebar-bg);
     }
 
     .card-body {

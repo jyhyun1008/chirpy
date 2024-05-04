@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-candy-cane
+icon: fas fa-utensils
 order: 1
 ---
 
