@@ -21,6 +21,7 @@
 body {
   font-family: 'Noto Sans KR';
   font-weight: 200;
+  overscroll-behavior-x: none;
 }
 
 header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
