@@ -8,7 +8,7 @@
 
 .categories {
   margin-bottom: 2rem;
-  border-color: var(--sidebar-border-color);
+  border-color: var(--categories-border);
 
   &.card,
   .list-group {
@@ -21,7 +21,6 @@
     padding: 0.75rem;
     border-radius: $radius;
     border-bottom: 0;
-    background-color: var(--sidebar-bg);
 
     &.hide-border-bottom {
       border-bottom-left-radius: 0;
@@ -39,8 +38,6 @@
     border-left: none;
     border-right: none;
     padding-left: 2rem;
-    border-top: 1px solid var(--sidebar-border-color);
-    border-bottom: 1px solid var(--sidebar-border-color);
 
     &:first-child {
       border-top-left-radius: 0;

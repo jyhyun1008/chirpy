@@ -30,16 +30,7 @@ header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
 }
 
 .site-title {
-  font-weight: 100 !important;
-}
-
-.post-preview {
-  box-shadow: none;
-  border: 1px solid var(--sidebar-border-color) !important;
-}
-
-.post-preview:hover {
-  background-color: var(--sidebar-bg) !important;
+  font-weight:100;
 }
 
 #post-list {
