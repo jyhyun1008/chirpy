@@ -5,6 +5,8 @@ date: 2024-05-01 00:00:00 +0800
 categories: [개발, CabinetKey]
 tags: [프론트, vue, NodeJS, CabinetKey]
 render_with_liquid: false
+image:
+  path: https://peachtart2.s3.ap-northeast-1.amazonaws.com/tart/abcd1b2a-2207-4338-aef0-6fd4c35f1dca.webp
 ---
 
 # Cabinetkey(캐비닛키)
