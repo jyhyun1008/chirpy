@@ -6,14 +6,16 @@
 
 @font-face {
   font-family: 'default';
-  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2404@1.0/Freesentation-2ExtraLight.woff2') format('woff2');
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2404@1.0/Freesentation-2ExtraLight.woff2')
+    format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'default';
-  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2404@1.0/Freesentation-7Bold.woff2') format('woff');
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2404@1.0/Freesentation-7Bold.woff2')
+    format('woff');
   font-weight: bold;
   font-style: normal;
 }
@@ -24,13 +26,20 @@ body {
   overscroll-behavior-x: none;
 }
 
-header .post-desc, #search-results a, h5, h4, h3, h2, h1, .card-header .mx-2 {
+header .post-desc,
+#search-results a,
+h5,
+h4,
+h3,
+h2,
+h1,
+.card-header .mx-2 {
   font-family: 'Noto Sans KR';
   font-weight: 700;
 }
 
 .site-title {
-  font-weight:100 !important;
+  font-weight: 100 !important;
 }
 
 #post-list {
@@ -198,6 +207,11 @@ header .post-desc, #search-results a, h5, h4, h3, h2, h1, .card-header .mx-2 {
         display: none;
       }
     }
+  }
+
+  /* 모바일에서 업데이트알림이 자꾸만떠요 */
+  #notification.toast.show {
+    display: none !important;
   }
 }
 
